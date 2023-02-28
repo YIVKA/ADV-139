@@ -1,0 +1,30 @@
+h1 {
+	height: 34px;
+	width: 100%;
+	text-align: center;
+}
+
+body
+{
+	text-align: center;
+	background-size: cover;
+	background-position: center;
+}
+span
+{
+	font-size: 12px;
+	color: orangered;
+}
+canvas
+{
+	margin-top: 100%;
+	background: bisque;
+	border-radius: 20px;
+	box-shadow: 10px 10px 10px gray;
+	border-radius: 24;
+}
+
+#status , #number_of_objects
+{
+	font-size: 24px;
+}
